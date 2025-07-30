@@ -1,0 +1,53 @@
+.q{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+
+p{
+    text-align: center;
+}
+.div{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.w{
+    border-radius: 10px;
+    width: 700px;
+    height: 500px; 
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid grey;
+    width: 400px;
+    height: 40px;
+}
+th{
+    border: 1px solid grey;
+    height: 40px;
+    width: 1500px;
+}
+iframe{
+    width: 1500px;
+    height: 700px;
+}
+button{
+    background-color: green;
+    color: white;
+    height: 25px;
+    width: 200px;
+}
+input{
+    width: 500px;
+    height: 30px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+}
+.r{
+    background-color: rgb(221, 221, 221);
+}
